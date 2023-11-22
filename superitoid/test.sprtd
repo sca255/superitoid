@@ -1,0 +1,6 @@
+group sca
+var a1 "abc"
+var a2 123
+var a3 True
+print sca
+end

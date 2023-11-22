@@ -1,0 +1,7 @@
+group g1
+var a1 "arpan"
+group g2
+var a1 "das"
+print g1
+print g2 
+end
